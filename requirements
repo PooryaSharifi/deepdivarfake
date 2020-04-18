@@ -1,0 +1,6 @@
+stem
+motor
+aiohttp
+aiohttp-socks
+lxml
+uvloop
